@@ -50,3 +50,9 @@ print(ipAdress)
 
 
 print("Hola mundo git")
+
+
+x=2
+suma=x+3
+print(suma)
+
